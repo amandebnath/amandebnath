@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a graduate in Mechanical Engineering<br>I'm currently transitioned into Data Analysis<br>I love to watch football and F1 and learn new languages as hobbies
+I'm a graduate in Mechanical Engineering<br>I've currently transitioned into Data Analysis<br>I love to watch football and F1 and learn new languages as hobbies
 
 
 ## 🌐 Socials:
