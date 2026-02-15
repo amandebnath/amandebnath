@@ -6,6 +6,8 @@ Data Analyst
 
 I've been learning to code and build dashboards, while switching careers. I started with Python, but have found a liking for analyzing data while exploring datasets of various domains...
 
+[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandebnath)](https://github.com/anuraghazra/github-readme-stats)
+
 * 🌍  I'm based in Kolkata, India
 * 🖥️  See my portfolio at [Coming Soon](http://aman-tech.in)
 * ✉️  You can contact me at [amandebnath66@gmail.com](mailto:amandebnath66@gmail.com)
