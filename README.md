@@ -16,7 +16,7 @@ I'm a graduate in Mechanical Engineering<br>I've currently transitioned into Dat
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amandebnath&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ---
