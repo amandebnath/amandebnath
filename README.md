@@ -1,3 +1,6 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you!</h1>
+
+
 # 🗿 About Me:
 I'm a graduate in Mechanical Engineering<br>I've currently transitioned into Data Analysis<br>I love to watch football and F1 and learn new languages as hobbies
 
