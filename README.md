@@ -7,7 +7,7 @@ Data Analyst
 I've been learning to code and build dashboards, while switching careers. I started with Python, but have found a liking for analyzing data while exploring datasets of various domains...
 
 
-* 🌍  I'm based in Kolkata, India
+* 🌍  I'm from Kolkata and currently based in Greater Noida, India.
 * 🖥️  See my portfolio at [Coming Soon](http://aman-tech.in)
 * ✉️  You can contact me at [amandebnath66@gmail.com](mailto:amandebnath66@gmail.com)
 * 🧠  I'm currently learning Power BI and Data Science
