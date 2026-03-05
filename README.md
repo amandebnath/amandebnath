@@ -10,8 +10,8 @@ I've been learning to code and build dashboards, while switching careers. I star
 * 🌍  I'm from Kolkata and currently based in Greater Noida, India.
 * 🖥️  See my portfolio at [Coming Soon](http://aman-tech.in)
 * ✉️  You can contact me at [amandebnath66@gmail.com](mailto:amandebnath66@gmail.com)
-* 🧠  I'm currently learning Power BI and Data Science
-* 💬  Ask me about I love Football and Formula 1
+* 🧠  I'm currently on my way to master SQL and Power BI
+* 💬  Other than Data, I love Football and Formula 1
 
 
 ## 🌐 Socials:
