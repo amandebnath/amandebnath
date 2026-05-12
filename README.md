@@ -7,7 +7,8 @@ Data Analyst
 I've been learning to code and build dashboards, while switching careers. I started with Python, but have found a liking for analyzing data while exploring datasets of various domains...
 
 
-* 🌍  I'm from Kolkata and currently based in Greater Noida, India.
+* 🌍  I'm from Kolkata and currently based in Bengaluru, India.
+* 🏢  I work at Flipkart Internet Pvt. Ltd.
 * 🖥️  See my portfolio at [Coming Soon](http://aman-tech.in)
 * ✉️  You can contact me at [amandebnath66@gmail.com](mailto:amandebnath66@gmail.com)
 * 🧠  I'm currently on my way to master SQL and Power BI
